@@ -1,0 +1,9 @@
+D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
