@@ -68,5 +68,49 @@ namespace UnitTestProject
             Console.WriteLine("");
             Assert.AreEqual(false, unitTest.KiemTraPalindrome_17_PhanCongHieu(""));
         }
+
+        [TestMethod]
+        public void TestSoNguyenTo_14_VoLeHau()
+        {
+            //Trường hợp là số nguyên tố
+            Console.WriteLine("2");
+            //Kiểm tra giá trị mong đợi có bằng với giá trị kiểm tra được hay ko
+            Assert.AreEqual(true, unitTest.SoNguyenTo_14_VoLeHau(2));
+            //Tương tự với các số khác
+            Console.WriteLine("11");
+            Assert.AreEqual(true, unitTest.SoNguyenTo_14_VoLeHau(11));
+            Console.WriteLine("13");
+            Assert.AreEqual(true, unitTest.SoNguyenTo_14_VoLeHau(13));
+            Console.WriteLine("17");
+            Assert.AreEqual(true, unitTest.SoNguyenTo_14_VoLeHau(17));
+
+            //Trường hợp ko phải là số nguyên tố
+            Console.WriteLine("1");
+            Assert.AreEqual(false, unitTest.SoNguyenTo_14_VoLeHau(1));
+            Console.WriteLine("12");
+            Assert.AreEqual(false, unitTest.SoNguyenTo_14_VoLeHau(12));
+            Console.WriteLine("-2");
+            Assert.AreEqual(false, unitTest.SoNguyenTo_14_VoLeHau(-2));
+        }
+        [TestMethod]
+        public void TestSoArmstrong_14_VoLeHau()
+        {
+            //Trường hợp là số armstrong
+            Console.WriteLine("0");
+            //Kiểm tra giá trị mong đợi có bằng với giá trị kiểm tra được hay ko
+            Assert.AreEqual(true, unitTest.SoArmstrong_14_VoLeHau(0));
+            //Tương tự với các số khác
+            Console.WriteLine("153");
+            Assert.AreEqual(true, unitTest.SoArmstrong_14_VoLeHau(153));
+            Console.WriteLine("370");
+            Assert.AreEqual(true, unitTest.SoArmstrong_14_VoLeHau(370));
+            //Trường hợp ko phải là số armstrong
+            Console.WriteLine("-30");
+            Assert.AreEqual(false, unitTest.SoArmstrong_14_VoLeHau(-30));
+            Console.WriteLine("100");
+            Assert.AreEqual(false, unitTest.SoArmstrong_14_VoLeHau(100));
+            Console.WriteLine("999");
+            Assert.AreEqual(false, unitTest.SoArmstrong_14_VoLeHau(999));
+        }
     }
 }

@@ -7,3 +7,12 @@ D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\obj\Debug
 D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
 D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
 D:\Software testing and Quality assurence\Exercise\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb

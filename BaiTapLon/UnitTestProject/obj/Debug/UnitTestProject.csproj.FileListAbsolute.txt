@@ -16,3 +16,21 @@ D:\Software testing and Quality assurence\Exercise\BaiTapLon\UnitTestProject\obj
 D:\Software testing and Quality assurence\Exercise\BaiTapLon\UnitTestProject\obj\Debug\UnitTest.294DD5B1.Up2Date
 D:\Software testing and Quality assurence\Exercise\BaiTapLon\UnitTestProject\obj\Debug\UnitTestProject.dll
 D:\Software testing and Quality assurence\Exercise\BaiTapLon\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\BaiTapLon.exe
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\BaiTapLon.pdb
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\BaiTapLon.exe.config
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\UnitTestProject\obj\Debug\UnitTestProject.pdb
