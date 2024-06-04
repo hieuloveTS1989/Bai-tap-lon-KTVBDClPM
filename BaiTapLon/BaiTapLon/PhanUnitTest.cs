@@ -25,7 +25,10 @@ namespace BaiTapLon
 
         public bool KiemTraNamNhuan_17_PhanCongHieu(int nam)
         {
+            // trả về kết quả sai nếu số năm bằng 0
             if (nam == 0) { return false; }
+
+            // Trả về kết quả đúng nếu chia hết cho 4 và 100 hoặc chia hết cho 400
             if ((nam % 4 == 0 && nam % 100 != 0) || nam % 400 == 0)
             {
                 return true;

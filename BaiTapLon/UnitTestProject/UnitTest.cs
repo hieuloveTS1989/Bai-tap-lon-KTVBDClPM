@@ -5,7 +5,7 @@ using BaiTapLon;
 namespace UnitTestProject
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTest
     {
         PhanUnitTest unitTest;
         [TestInitialize]
