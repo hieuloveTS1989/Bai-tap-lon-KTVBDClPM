@@ -20,16 +20,16 @@ namespace UnitTestProject
             Assert.AreEqual(true, unitTest.KiemTraNamNhuan_17_PhanCongHieu(1600));
             Console.WriteLine("400");
             Assert.AreEqual(true, unitTest.KiemTraNamNhuan_17_PhanCongHieu(400));
-            Console.WriteLine("2024");
-            Assert.AreEqual(true, unitTest.KiemTraNamNhuan_17_PhanCongHieu(2024));
+            Console.WriteLine("2008");
+            Assert.AreEqual(true, unitTest.KiemTraNamNhuan_17_PhanCongHieu(2008));
 
             //Năm không nhuận
-            Console.WriteLine("1900");
-            Assert.AreEqual(false, unitTest.KiemTraNamNhuan_17_PhanCongHieu(1900));
-            Console.WriteLine("1700");
-            Assert.AreEqual(false, unitTest.KiemTraNamNhuan_17_PhanCongHieu(1700));
-            Console.WriteLine("100");
-            Assert.AreEqual(false, unitTest.KiemTraNamNhuan_17_PhanCongHieu(100));
+            Console.WriteLine("2003");
+            Assert.AreEqual(false, unitTest.KiemTraNamNhuan_17_PhanCongHieu(2003));
+            Console.WriteLine("2009");
+            Assert.AreEqual(false, unitTest.KiemTraNamNhuan_17_PhanCongHieu(2009));
+            Console.WriteLine("2013");
+            Assert.AreEqual(false, unitTest.KiemTraNamNhuan_17_PhanCongHieu(2013));
             Console.WriteLine("2023");
             Assert.AreEqual(false, unitTest.KiemTraNamNhuan_17_PhanCongHieu(2023));
 

@@ -16,3 +16,12 @@ D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTa
 D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
 D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
 D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\Software testing and Quality assurence\BTL\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\Software testing and Quality assurence\BTL\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\Software testing and Quality assurence\BTL\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\Software testing and Quality assurence\BTL\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+D:\Software testing and Quality assurence\BTL\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\Software testing and Quality assurence\BTL\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+D:\Software testing and Quality assurence\BTL\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+D:\Software testing and Quality assurence\BTL\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\Software testing and Quality assurence\BTL\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
