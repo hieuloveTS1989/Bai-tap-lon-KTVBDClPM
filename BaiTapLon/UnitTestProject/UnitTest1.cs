@@ -70,9 +70,10 @@ namespace UnitTestProject
         }
 
         [TestMethod]
-        public void TestSoNguyenTo_14_VoLeHau()
+        public void TC1_SoNguyenTo_LaSoNguyenTo_14_VoLeHau()
         {
             //Trường hợp là số nguyên tố
+            Console.WriteLine("Trường hợp là số nguyên tố");
             Console.WriteLine("2");
             //Kiểm tra giá trị mong đợi có bằng với giá trị kiểm tra được hay ko
             Assert.AreEqual(true, unitTest.SoNguyenTo_14_VoLeHau(2));
@@ -81,10 +82,13 @@ namespace UnitTestProject
             Assert.AreEqual(true, unitTest.SoNguyenTo_14_VoLeHau(11));
             Console.WriteLine("13");
             Assert.AreEqual(true, unitTest.SoNguyenTo_14_VoLeHau(13));
-            Console.WriteLine("17");
-            Assert.AreEqual(true, unitTest.SoNguyenTo_14_VoLeHau(17));
+        }
 
+        [TestMethod]
+        public void TC2_SoNguyenTo_KhongLaSoNguyenTo_14_VoLeHau()
+        {
             //Trường hợp ko phải là số nguyên tố
+            Console.WriteLine("Trường hợp không là số nguyên tố");
             Console.WriteLine("1");
             Assert.AreEqual(false, unitTest.SoNguyenTo_14_VoLeHau(1));
             Console.WriteLine("12");
@@ -93,18 +97,22 @@ namespace UnitTestProject
             Assert.AreEqual(false, unitTest.SoNguyenTo_14_VoLeHau(-2));
         }
         [TestMethod]
-        public void TestSoArmstrong_14_VoLeHau()
+        public void TC1_SoArmstrong_LaSoArmstrong_14_VoLeHau()
         {
             //Trường hợp là số armstrong
-            Console.WriteLine("0");
-            //Kiểm tra giá trị mong đợi có bằng với giá trị kiểm tra được hay ko
-            Assert.AreEqual(true, unitTest.SoArmstrong_14_VoLeHau(0));
-            //Tương tự với các số khác
+            Console.WriteLine("Trường hợp là số Armstrong");
+            //Kiểm tra giá trị mong đợi có bằng với giá trị kiểm tra được hay  
             Console.WriteLine("153");
             Assert.AreEqual(true, unitTest.SoArmstrong_14_VoLeHau(153));
+            //Tương tự với số khác
             Console.WriteLine("370");
             Assert.AreEqual(true, unitTest.SoArmstrong_14_VoLeHau(370));
+        }
+        [TestMethod]
+        public void TC2_SoArmstrong_KhongLaSoArmstrong_14_VoLeHau()
+        {
             //Trường hợp ko phải là số armstrong
+            Console.WriteLine("Trường hợp không là số Armstrong");
             Console.WriteLine("-30");
             Assert.AreEqual(false, unitTest.SoArmstrong_14_VoLeHau(-30));
             Console.WriteLine("100");

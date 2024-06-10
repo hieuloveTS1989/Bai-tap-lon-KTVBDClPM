@@ -16,3 +16,4 @@ D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTa
 D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
 D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
 D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\Projects\New folder\Bai-tap-lon-KTVBDClPM\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Form1.resources
