@@ -6,27 +6,30 @@ using System.Threading.Tasks;
 
 namespace BaiTapLon
 {
-    public class PhanUnitTest
+    public class PhanUnitTest_17_Hieu_14_Hau
     {
-        public bool KiemTraPalindrome_17_PhanCongHieu(string chuoi)
+        public bool KiemTraPalindrome_17_Hieu(string chuoi_17_Hieu)
         {
             // Loại bỏ khoảng trắng và chuyển đổi chuỗi sang chữ thường
-            chuoi = chuoi.Trim().ToLower();
+            chuoi_17_Hieu = chuoi_17_Hieu.Trim().ToLower();
 
             // Kiểm tra độ dài
-            if (chuoi.Length ==  0 ) return false;
+            if (chuoi_17_Hieu.Length ==  0 ) return false;
 
             // Tạo chuỗi đảo ngược
-            string chuoiDaoNguoc = new string(chuoi.ToCharArray().Reverse().ToArray());
+            string chuoiDaoNguoc_17_Hieu = new string(chuoi_17_Hieu.ToCharArray().Reverse().ToArray());
 
             // So sánh chuỗi gốc và chuỗi đảo ngược
-            return chuoi == chuoiDaoNguoc;
+            return chuoi_17_Hieu == chuoiDaoNguoc_17_Hieu;
         }
 
-        public bool KiemTraNamNhuan_17_PhanCongHieu(int nam)
+        public bool KiemTraNamNhuan_17_Hieu(int nam_17_Hieu)
         {
-            if (nam == 0) { return false; }
-            if ((nam % 4 == 0 && nam % 100 != 0) || nam % 400 == 0)
+            // trả về kết quả sai nếu số năm bé hơn hoặc bằng 0
+            if (nam_17_Hieu <= 0) { return false; }
+
+            // Trả về kết quả đúng nếu chia hết cho 4 nhưng không chia hết cho 100 hoặc chia hết cho 400
+            if ((nam_17_Hieu % 4 == 0 && nam_17_Hieu % 100 != 0) || nam_17_Hieu % 400 == 0)
             {
                 return true;
             }
